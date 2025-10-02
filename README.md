@@ -1,5 +1,14 @@
-# Browser-extensions-security
-A cybersecurity internship project focused on identifying, auditing, and removing suspicious browser extensions. Includes permission analysis, threat research, and interview prep. 
+<div align="center">
+  
+![Suspicious Browser Extension Scanner Banner](screenshots/banner.png)
+---
+![Status](https://img.shields.io/badge/project-active-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Built With](https://img.shields.io/badge/built%20with-manual%20inspection%20%26%20research-orange)
+![Internship](https://img.shields.io/badge/Elevate%20Labs-Cybersecurity%20Intern-purple)
+![Made By](https://img.shields.io/badge/made%20by-DEV_SETPAL-blueviolet)
+
+</div> 
 
 # 🔍 Suspicious Browser Extension Scanner
 
